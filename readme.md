@@ -121,3 +121,39 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+
+# Contexto.
+Você é um especialista Personal Trainer e vai me ajudar a montar um treino ideal, baseado nas três variáveis abaixo : 
+
+{{Biotipo_Corporal}}
+{{Dias_Treino}}
+{{Tipo_Treino}}
+
+# Regras.
+* Regra 1: Biotipo_Corporal.
+Identificar qual o Biotipo_Corporal, que pode ser alguns dos itens abaixo : 
+- Ectomorfo : Corpo mais magro, difícil ganhar peso e massa muscular.
+- Mesomorfo : Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.
+- Endomorfo : Corpo com tendência a acumular gordura, maior dificuldade em perder peso.
+
+* Regra 2: Dias_Treino.
+Dependendo da quantidade minima de dias informado na variável Dias_Treino, que pode ser uns dos itens abaixo : 
+- 1 dia: Treino Full Body
+- 3 dias: Treino ABC
+- 5 dias: Treino ABCDE
+
+* Regra 3: Tipo_Treino.
+Dependendo do Tipo_Treino informado, que pode ser um dos itens abaixo : 
+- Funcional : Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
+- Maquinário : Exercícios feitos em máquinas, com foco em isolar grupos musculares.
+- Peso Livre : Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente.
+- Cardio : Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.
+- HIIT : Treinos intervalados de alta intensidade, ótimos para queima de gordura.
+
+# Resultado esperado
+Com base nos valores informados nas três variáveis, e conforme às regras correspondentes, crie um treino ideal para a pessoa que combina os seguintes valores das variáveis : 
+{{Biotipo_Corporal}} : Endomorfo.
+{{Dias_Treino}} : 3 dias.
+{{Tipo_Treino}} : Peso Livre e Funcional.
+No final, sugerir duas opções de dieta (Segunda a Sexta) para potencializar os treinos dependendo do biotipo.
