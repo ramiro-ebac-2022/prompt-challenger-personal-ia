@@ -157,3 +157,50 @@ Com base nos valores informados nas três variáveis, e conforme às regras corr
 {{Dias_Treino}} : 3 dias.
 {{Tipo_Treino}} : Peso Livre e Funcional.
 No final, sugerir duas opções de dieta (Segunda a Sexta) para potencializar os treinos dependendo do biotipo.
+
+# Resposta :
+Treino Ideal
+Biotipo Corporal: Endomorfo
+Dias de Treino: 3 dias (Treino ABC)
+Tipo de Treino: Peso Livre e Funcional
+
+Estrutura do Treino ABC
+Dia A: Peito e Tríceps
+
+Supino reto com halteres - 4x10
+Supino inclinado com halteres - 4x12
+Flexões de braço - 3x15
+Tríceps banco - 3x12
+Tríceps francês com halteres - 3x12
+Dia B: Costas e Bíceps
+
+Remada curvada com halteres - 4x10
+Remada unilateral - 4x12
+Pulldown (barra) - 3x15
+Rosca direta com halteres - 3x12
+Rosca martelo - 3x12
+Dia C: Pernas e Core
+
+Agachamento com halteres - 4x12
+Afundos com halteres - 4x10 cada perna
+Stiff com halteres - 3x12
+Elevação de panturrilhas - 4x15
+Prancha - 3x30 segundos
+Obs: Esse treino combina pesos livres com movimentos funcionais para ativar os grandes grupos musculares e promover gasto calórico eficiente, essencial para endomorfos que buscam perda de gordura.
+
+Opções de Dieta (Segunda a Sexta)
+Dieta 1 - Foco em Controle de Carboidratos
+
+Café da Manhã: Omelete de 3 ovos com espinafre, 1 fatia de pão integral, chá verde.
+Lanche da Manhã: Iogurte grego sem açúcar e 1 maçã.
+Almoço: Frango grelhado (150g), brócolis cozido e 1 batata-doce pequena.
+Lanche da Tarde: 1 punhado de nozes e 1 banana.
+Jantar: Peixe grelhado (120g) com salada de folhas verdes, tomate e azeite de oliva.
+Dieta 2 - Foco em Proteína e Baixo Carboidrato à Noite
+
+Café da Manhã: Aveia com leite desnatado, morangos e sementes de chia.
+Lanche da Manhã: 1 fatia de queijo branco com 1 pera.
+Almoço: Filé de carne magra (150g), arroz integral (1 xícara), legumes variados no vapor.
+Lanche da Tarde: 1 shake de proteína com água e 1 laranja.
+Jantar: Salada de atum com mix de folhas, pepino e cenoura ralada, temperado com limão e azeite.
+Dica: A dieta para endomorfos deve ser moderada em carboidratos, rica em proteínas e com boas fontes de gordura para ajudar na saciedade e controle do peso.
